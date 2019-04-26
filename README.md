@@ -10,7 +10,7 @@ Additional binaries that are also installed (when available) and very useful for
 It's on [docker-hub](https://hub.docker.com/r/fingershock/haproxy-base/) and [github](https://github.com/iJJi/docker-haproxy-base)
 
 ## tags and links
- * `1.9`, `1.9.6` Current stable release [(Dockerfile)](https://github.com/iJJi/docker-haproxy-base/blob/master/Dockerfile-1.9) [![](https://images.microbadger.com/badges/image/fingershock/haproxy-base:1.9.svg)](https://microbadger.com/images/fingershock/haproxy-base:1.9 "Get your own image badge on microbadger.com") [![Build Status](https://travis-ci.org/iJJi/docker-haproxy-base.svg?branch=master)](https://travis-ci.org/iJJi/docker-haproxy-base)
+ * `1.9`, `1.9.7` Current stable release [(Dockerfile)](https://github.com/iJJi/docker-haproxy-base/blob/master/Dockerfile-1.9) [![](https://images.microbadger.com/badges/image/fingershock/haproxy-base:1.9.svg)](https://microbadger.com/images/fingershock/haproxy-base:1.9 "Get your own image badge on microbadger.com") [![Build Status](https://travis-ci.org/iJJi/docker-haproxy-base.svg?branch=master)](https://travis-ci.org/iJJi/docker-haproxy-base)
  * `latest`, `1.8`, `1.8.19` Previous stable release [(Dockerfile)](https://github.com/iJJi/docker-haproxy-base/blob/master/Dockerfile-1.8) [![](https://images.microbadger.com/badges/image/fingershock/haproxy-base:1.8.svg)](https://microbadger.com/images/fingershock/haproxy-base:1.8 "Get your own image badge on microbadger.com") [![Build Status](https://travis-ci.org/iJJi/docker-haproxy-base.svg?branch=master)](https://travis-ci.org/iJJi/docker-haproxy-base)
 
 ## running
