@@ -1,4 +1,8 @@
 # docker-haproxy-base
+
+This project is no longer maintained. The docker official images are now comparable and can completely replace this one; they are well maintained, available in a small size (also using Alpine linux) and are a drop-in replacement.  https://hub.docker.com/_/haproxy
+
+
 Base docker image for [haproxy](http://www.haproxy.org/)
 
 An haproxy docker image based on [alpine linux](http://www.alpinelinux.org/), so it's tiny.
